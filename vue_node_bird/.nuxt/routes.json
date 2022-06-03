@@ -1,0 +1,26 @@
+[
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/mini/Study/fill_green/vue_node_bird/pages/profile.vue",
+    "chunkName": "pages/profile"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/Users/mini/Study/fill_green/vue_node_bird/pages/signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "user-zerocho",
+    "path": "/user/zerocho",
+    "component": "/Users/mini/Study/fill_green/vue_node_bird/pages/user/zerocho.vue",
+    "chunkName": "pages/user/zerocho"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mini/Study/fill_green/vue_node_bird/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

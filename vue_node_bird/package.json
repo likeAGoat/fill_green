@@ -1,0 +1,21 @@
+{
+  "name": "vue_node_bird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.12.17",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "install": "^0.13.0",
+    "nuxt": "^2.13.3",
+    "vue": "^2.6.14",
+    "vuetify": "^2.6.4"
+  }
+}
